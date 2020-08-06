@@ -3,7 +3,7 @@
 I like to solve problems by with data and code.
 
 - Text editor: Sublime Text, Visual Studio Code
-- Languages: Python, R, SQL, Java, C++, JavaSript, Bash
+- Languages: Python, R, SQL, Java, C++, JavaScript, Bash
 - Python packages: pandas, matplotlib, seaborn, scikit-learn, pytorch, pyspark
 - Other: Jupyter, Spark, Hadoop, PyTorch, Git, Unix, conda
 
