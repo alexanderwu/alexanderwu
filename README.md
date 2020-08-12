@@ -3,9 +3,9 @@
 I like to solve problems by with data and code.
 
 - Text editor: Sublime Text, Visual Studio Code
-- Languages: Python, R, SQL, Java, C++, JavaScript, Bash
-- Python packages: pandas, matplotlib, seaborn, scikit-learn, pytorch, pyspark
-- Other: Jupyter, Spark, Hadoop, PyTorch, Git, Unix, conda
+- Languages: Python, R, SQL, JavaScript/HTML/CSS, Java, C++, Bash
+- Python packages: pandas, matplotlib, scikit-learn, spacy
+- Other: Jupyter, Node.js, PyTorch, Git, Linux, Spark
 
 Actively seeking full-time employment in Bay Area or remote.
 
