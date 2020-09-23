@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I like to solve problems by with data and code.
+I'm Alex. I'm interested in all aspects of using data for good. I want to be a data scientist or machine learning engineer.
 
 - Text editor: Sublime Text, Visual Studio Code
-- Languages: Python, R, SQL, JavaScript/HTML/CSS, Java, C++, Bash
+- Languages: Python, JavaScript, SQL, R, Java, C++
 - Python packages: pandas, matplotlib, scikit-learn, spacy
-- Other: Jupyter, Node.js, PyTorch, Git, Linux, Spark
+- Web technology: Node.js, React, MongoDB
+- Other: Jupyter, streamlit, PyTorch, PySpark, Git, Linux
 
-Actively seeking full-time employment in Bay Area or remote.
+Actively seeking full-time employment in the Bay Area or remote.
 
 [LinkedIn](https://www.linkedin.com/in/alexanderwu7/) | [Website](https://alexanderwu.github.io/)
 
