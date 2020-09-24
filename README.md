@@ -5,8 +5,8 @@ I'm Alex. I'm interested in all aspects of using data for good. I want to be a d
 - Text editor: Sublime Text, Visual Studio Code
 - Languages: Python, JavaScript, SQL, R, Java, C++
 - Python packages: pandas, matplotlib, scikit-learn, spacy
-- Web technology: Node.js, React, MongoDB
-- Other: Jupyter, streamlit, PyTorch, PySpark, Git, Linux
+- Web technology: Node.js, React, MongoDB, Firebase
+- Other: Jupyter, streamlit, PyTorch, PySpark, Git, Docker, Linux
 
 Actively seeking full-time employment in the Bay Area or remote.
 
