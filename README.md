@@ -8,8 +8,6 @@ I'm Alex. I'm interested in all aspects of using data for good. I want to be a d
 - Web technology: Node.js, React, MongoDB, Firebase
 - Other: Jupyter, streamlit, PyTorch, PySpark, Git, Docker, Linux
 
-Actively seeking full-time employment in the Bay Area or remote.
-
 [LinkedIn](https://www.linkedin.com/in/alexanderwu7/) | [Website](https://alexanderwu.github.io/)
 
 <!--
